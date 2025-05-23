@@ -1,6 +1,6 @@
 # 🌐 Disciplina: Desenvolvimento Front-End  
-👨‍🏫 Professor: [Nome do Professor]  
-📅 Semestre: [Ex: 2025.1]
+👨‍🏫 Professor: kristian Erdmann  
+📅 2025.4
 
 ## 🧠 Objetivo da Disciplina  
 Capacitar os estudantes na criação de interfaces web modernas, acessíveis e responsivas, utilizando as tecnologias fundamentais da web: HTML, CSS e JavaScript. A disciplina também explora boas práticas de codificação, ferramentas do desenvolvedor, design responsivo e frameworks populares de CSS.
